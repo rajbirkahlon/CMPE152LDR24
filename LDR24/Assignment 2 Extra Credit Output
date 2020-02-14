@@ -1,0 +1,43 @@
+001 BEGIN
+>>> BEGIN           line=001, pos= 0, text="BEGIN"
+002 = . == . === . => . ==> . ===> . =====>
+>>> EQUALS          line=002, pos= 0, text="="
+>>> DOT             line=002, pos= 2, text="."
+>>> EQUALS          line=002, pos= 4, text="="
+>>> EQUALS          line=002, pos= 5, text="="
+>>> DOT             line=002, pos= 7, text="."
+>>> EQUALS          line=002, pos= 9, text="="
+>>> EQUALS          line=002, pos=10, text="="
+>>> EQUALS          line=002, pos=11, text="="
+>>> DOT             line=002, pos=13, text="."
+>>> EQUALS          line=002, pos=15, text="="
+>>> GREATER_THAN    line=002, pos=16, text=">"
+>>> DOT             line=002, pos=18, text="."
+>>> EXIT_ARROW      line=002, pos=20, text="==>"
+>>> DOT             line=002, pos=24, text="."
+>>> EQUALS          line=002, pos=26, text="="
+>>> EXIT_ARROW      line=002, pos=27, text="==>"
+>>> DOT             line=002, pos=31, text="."
+>>> EQUALS          line=002, pos=33, text="="
+>>> EQUALS          line=002, pos=34, text="="
+>>> EQUALS          line=002, pos=35, text="="
+>>> EXIT_ARROW      line=002, pos=36, text="==>"
+003 ==>===>=>=====>==
+>>> EXIT_ARROW      line=003, pos= 0, text="==>"
+>>> EQUALS          line=003, pos= 3, text="="
+>>> EXIT_ARROW      line=003, pos= 4, text="==>"
+>>> EQUALS          line=003, pos= 7, text="="
+>>> GREATER_EQUALS  line=003, pos= 8, text=">="
+>>> EQUALS          line=003, pos=10, text="="
+>>> EQUALS          line=003, pos=11, text="="
+>>> EXIT_ARROW      line=003, pos=12, text="==>"
+>>> EQUALS          line=003, pos=15, text="="
+>>> EQUALS          line=003, pos=16, text="="
+
+                   3 source lines.
+                   0 syntax errors.
+                0.00 seconds total parsing time.
+
+                   0 instructions generated.
+                0.00 seconds total code generation time.
+
